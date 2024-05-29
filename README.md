@@ -1,10 +1,10 @@
-# Welcome to My GitHub Profile
+# 🎉 Welcome to My GitHub Profile
 
-## Hi there, I'm Omar Al-Saleh!
+## 👋 Hi there, I'm Omar Al-Saleh!
 
 I'm a passionate MERN Stack Developer with a strong interest in Backend Engineering. Currently, I'm studying Computer Engineering and continually expanding my skill set to keep up with the latest technologies.
 
-### 🔭 Technologies & Tools
+### 🛠️ Technologies & Tools
 
 - **Frontend**: HTML, CSS, JavaScript, React.js
 - **Backend**: Node.js, Express.js
@@ -17,10 +17,10 @@ I'm a passionate MERN Stack Developer with a strong interest in Backend Engineer
 
 As a student of Computer Engineering, I'm diving deep into both theoretical and practical aspects of the field. Here are a few things I'm currently focused on:
 
-- Advanced Backend Development
-- Database Optimization
-- Scalable Web Applications
-- Microservices Architecture
+- 🚀 Advanced Backend Development
+- 🗃️ Database Optimization
+- 🌐 Scalable Web Applications
+- 🏗️ Microservices Architecture
 
 ### 💬 Let's Connect!
 
@@ -28,25 +28,23 @@ Feel free to reach out if you want to discuss technology, collaborate on a proje
 
 ### 📫 How to Reach Me
 
-- **Email**: omaralsaleh1129@gmail.com
-- **LinkedIn**: https://www.linkedin.com/in/omar-alsaleh-a2236424b/
-- **Facebook**: https://www.facebook.com/omar.alsaleh.5
+- **✉️ Email**: [omaralsaleh1129@gmail.com](mailto:omaralsaleh1129@gmail.com)
+- **💼 LinkedIn**: [Omar Al-Saleh](https://www.linkedin.com/in/omar-alsaleh-a2236424b/)
+- **📘 Facebook**: [Omar Al-Saleh](https://www.facebook.com/omar.alsaleh.5)
 
 ### 🌐 My Projects
 
 Here are some projects that showcase my skills and what I have been working on:
 
-- **Project 1**: Description (Tech Stack)
-- **Project 2**: Description (Tech Stack)
-- **Project 3**: Description (Tech Stack)
-
-
+- **📝 Project 1**: Task Manager API
+- **🌦️ Project 2**: Weather Application
+- **💬 Project 3**: Real Time Chat Application
+- **🏥 Project 4**: Hospital Emergency System
 
 <p align="center">
   <a href="https://github.com/yourusername">
     <img src="https://img.shields.io/github/followers/yourusername?label=Follow&style=social" alt="GitHub Follow">
   </a>
-  <a href="https://twitter.com/yourhandle">
-    <img src="https://img.shields.io/twitter/follow/yourhandle?label=Follow&style=social" alt="Twitter Follow">
+  
   </a>
 </p>

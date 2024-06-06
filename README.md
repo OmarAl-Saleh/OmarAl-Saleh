@@ -41,10 +41,4 @@ Here are some projects that showcase my skills and what I have been working on:
 - **💬 Project 3**: Real Time Chat Application
 - **🏥 Project 4**: Hospital Emergency System
 
-<p align="center">
-  <a href="https://github.com/yourusername">
-    <img src="https://img.shields.io/github/followers/yourusername?label=Follow&style=social" alt="GitHub Follow">
-  </a>
-  
-  </a>
-</p>
+
